@@ -1,0 +1,9 @@
+{
+  "name": "block-quest-arena-online-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Block Quest Arena browser game with Socket.IO room multiplayer",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "socket.io": "^4.8.1" }
+}
